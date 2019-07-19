@@ -1,0 +1,2 @@
+# Predicting-House-Prices-using-Advanced-Regression-Techniques
+We are given 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, the task was to predict the final price of each home. Our final model as a team reached the top 19%. This is an open kaggle competition so I revisit it every now and then to try and improve on our model because it sharpens my exploratory data analysis , feature engineering and statistical analysis skills.
